@@ -16,7 +16,7 @@ Knowledge graph course spring 2021 at the University of Bergen.
 
 ## About the assignment:
 
-Full description of this project can be found at the [course wiki](https://wiki.uib.no/info216/index.php/About_the_group_project)
+Full description of this project can be found at the [course wiki](https://wiki.uib.no/info216/index.php/About_the_group_project).
 
 This was a very open assignment where the main goal was to develop a semantic knowledge graph based (RDF, SPARQL, OWL...) dataset, application, or service. We chose to create an application for seeking information about counties, municipalities as well as the population of different municipalities in Norway. Information about counties and municipalities is fetched locally by downloading the information from SSB. Information about population is gathered from Wikidata by using SPARQLWrapper.
 
